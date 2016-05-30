@@ -1,8 +1,8 @@
 {
-    "name": "gantt-rest-php",
+    "name": "gantt-slim-mysql",
     "description": "dhtmlxGantt demo using Slim Framework and MySQL",
     "keywords": ["dhtmlxgantt", "slim", "rest"],
-    "homepage": "https://github.com/DHTMLX/gantt-rest-php.git",
+    "homepage": "https://github.com/DHTMLX/gantt-slim-mysql",
     "license": "GPL V3",
     "authors": [],
     "require": {
