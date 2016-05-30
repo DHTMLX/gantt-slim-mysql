@@ -1,0 +1,14 @@
+{
+    "name": "gantt-rest-php",
+    "description": "dhtmlxGantt demo using Slim Framework and MySQL",
+    "keywords": ["dhtmlxgantt", "slim", "rest"],
+    "homepage": "https://github.com/DHTMLX/gantt-rest-php.git",
+    "license": "GPL V3",
+    "authors": [],
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17"
+    }
+}
