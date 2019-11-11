@@ -22,5 +22,5 @@ http://docs.dhtmlx.com/gantt/desktop__server_side.html#savingdatafromrestserver
 
 ### Tutorial
 
-A complete tutorial can be found here http://dhtmlx.com/blog/integrating-gantt-php-using-rest-api-slim-mysql
+A complete tutorial can be found here https://dhtmlx.com/blog/integrating-gantt-php-using-rest-api-slim-mysql/
 
